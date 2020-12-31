@@ -1,0 +1,66 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="author" content="Jozias Martini">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Gelasio&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../assets/styles.css">
+	<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+</head>
+<body>
+
+<div id="landing">
+
+  <!-- Profile Navbar -->
+  <nav id="landingNav" data-aos="fade-down">
+
+    <!--Desktop Navbar -->
+		<div>
+		  <a href="#" class="desktop-menu-item">Timely</a>
+		  <a href="#" class="desktop-menu-item">Assinatura</a>
+		  <a href="#" class="desktop-menu-item">Dúvidas</a>
+		  <a href="#" class="desktop-menu-item">Suporte</a>
+		</div>
+		<div>
+		  <a href="#" class="desktop-menu-item">Recuperar</a>
+		  <a href="#" class="desktop-menu-item">Entrar</a>
+    </div>
+
+    <!-- Responsive Menu Dropdown -->
+    <div class="responsiveMenuIcon">
+      <i class="las la-bars"></i>
+      <div class="dropdown-content">
+        <a href="#" class="responsive-dropdown-item">Timely</a>
+        <a href="#" class="responsive-dropdown-item">Assinatura</a>
+        <a href="#" class="responsive-dropdown-item">Dúvidas</a>
+        <a href="#" class="responsive-dropdown-item">Suporte</a>
+        <a href="#" class="responsive-dropdown-item">Recuperar</a>
+        <a href="#" class="responsive-dropdown-item">Entrar</a>
+      </div>
+    </div>
+
+  </nav>
+
+  <!-- Header -->
+  <header id="landingHeader">
+    <div data-aos="fade-right">
+      <h1>Como você está se sentindo hoje?</h1>
+      <p>Monitore seu humor, ciclo de sono, alimentação e atividades de uma maneira tranquila. Ganhe saúde e paz.</p>
+      <a href="#" class="access-button">Acessar agora</a>
+    </div>
+    <div data-aos="fade-left">
+      <img src="../assets/timely-app-iphone.png">
+    </div>
+  </header>
+
+  <!-- Animation library and initialize function -->
+	<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+	<script>AOS.init();</script>
+
+</div>
+
+</body>
+</html>
