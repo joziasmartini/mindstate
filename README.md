@@ -22,17 +22,19 @@ Grande parte do projeto foi construído seguindo as ideias de <a href="https://d
 
 O projeto iniciou-se com pesquisas de validação da dor das nossas personas. 
 
-Para isso, fizemos a pesquisa: <a href="https://forms.gle/LFZA6vXYwy3s8vCn7">forms.gle/LFZA6vXYwy3s8vCn7</a>.
+Para isso, fizemos a <a href="https://forms.gle/LFZA6vXYwy3s8vCn7">seguinte pesquisa</a>.
 
 ## Organização
 
 Nós decidimos em grupo em usar o Trello para organizar os arquivos e projetos do aplicativo. 
 
-O link para o mesmo é: <a href="https://trello.com/b/xfAJmNDm">trello.com/b/xfAJmNDm</a>.
+O link para a board do trello é <a href="https://trello.com/b/xfAJmNDm">este</a>.
 
 ## Tecnologias
 
-Utilizamos as seguintes tecnologias no projeto: HTML, CSS, JavaScript e Firebase.
+Utilizamos as seguintes tecnologias no projeto: 
+
+HTML, CSS, JavaScript e Firebase.
 
 ## Instalação
 
