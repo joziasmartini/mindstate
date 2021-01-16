@@ -30,11 +30,23 @@ Nós decidimos em grupo em usar o Trello para organizar os arquivos e projetos d
 
 O link para a board do trello é <a href="https://trello.com/b/xfAJmNDm">este</a>.
 
+## Metodologia
+
+Nós decidimos utilizar a <a href="https://www.desenvolvimentoagil.com.br/scrum/">metodologia ágil scrum</a> no projeto.
+
+As sprints tiveram duração de quinze dias cada.
+
 ## Tecnologias
 
 Utilizamos as seguintes tecnologias no projeto: 
 
 HTML, CSS, JavaScript e Firebase.
+
+## Pitch
+
+O projeto teve uma apresentação final de pitch criada pelos membros.
+
+O objetivo era apresentar e captar investimentos de empresas ou investidores.
 
 ## Instalação
 
