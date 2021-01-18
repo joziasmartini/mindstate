@@ -42,6 +42,12 @@ Utilizamos as seguintes tecnologias no projeto:
 
 HTML, CSS, JavaScript e Firebase.
 
+## Protótipo
+
+Nós fizemos um protótipo das telas principais em html e css.
+
+Esse é o link para o <a href="http://uffs.jmartini.me/saude-mental-app.html">protótipo online</a>.
+
 ## Pitch
 
 O projeto teve uma apresentação final de pitch criada pelos membros.
