@@ -1,67 +1,67 @@
 <h1 align="center">
-    <img alt="Timely" title="Timely" src="github/timely-logo.png" width="420px" />
+  <img alt="Timely" title="Timely" src="github/timely-logo.png" width="420px" />
 </h1>
 
 <p align="center">
-  Um aplicativo web que monitora seu ciclo de sono, humor e alimentação.
+  A web application that monitors your sleep cycle and mood.
 </p>
 
 <br>
 <img alt="Timely Landing Page" title="Timely Landing Page" src="github/timely-landing-page.png" width="100%" align="center" />
 <br>
 
-## Sobre
+## About
 
-Este foi um trabalho realizado sobre a saúde mental na pandemia para a matéria de engenharia de software. 
+This was a work done about the mental health in the pandemic for software engineering.
 
-Os integrantes desse projeto são Jozias Martini, Gustavo Bevilacqua, Bruno Bevilaqua, Mateus Arthur.
+The members of this project are Jozias Martini, Gustavo Bevilacqua, Bruno Bevilaqua and Mateus Arthur.
 
-Grande parte do projeto foi construído seguindo as ideias de <a href="https://dschool.stanford.edu/resources/dschool-reading-list">design thinking da stanford</a>.
+Much of the project was built following the ideas of <a href="https://dschool.stanford.edu/resources/dschool-reading-list">design thinking by stanford</a>.
 
-## Pesquisa
+## Research
 
-O projeto iniciou-se com pesquisas de validação da dor das nossas personas. 
+The project started with research to validate the pain of our personas.
 
-Para isso, fizemos a <a href="https://forms.gle/LFZA6vXYwy3s8vCn7">seguinte pesquisa</a>.
+For that, we made the following <a href="https://forms.gle/LFZA6vXYwy3s8vCn7">research</a>.
 
-## Organização
+## Organization
 
-Nós decidimos em grupo em usar o Trello para organizar os arquivos e projetos do aplicativo. 
+We decided as a group to use Trello to organize the application files and projects.
 
-O link para a board do trello é <a href="https://trello.com/b/xfAJmNDm">este</a>.
+The link to the trello board is <a href="https://trello.com/b/xfAJmNDm">this</a>.
 
-## Metodologia
+## Methodology
 
-Nós decidimos utilizar a <a href="https://www.desenvolvimentoagil.com.br/scrum/">metodologia ágil scrum</a> no projeto.
+We decided to use the <a href="https://www.desenvolvimentoagil.com.br/scrum/">agile scrum methodology</a> in the project.
 
-As sprints tiveram duração de quinze dias cada.
+The sprints lasted fifteen days each.
 
-## Tecnologias
+## Technologies
 
-Utilizamos as seguintes tecnologias no projeto: 
+We used the following technologies in the project:
 
-HTML, CSS, JavaScript e Firebase.
+HTML, CSS, JavaScript and Firebase.
 
-## Protótipo
+## Prototype
 
-Nós fizemos um protótipo das telas principais em html e css.
+We made a prototype of the main screens in HTML and CSS.
 
-Esse é o link para o <a href="http://uffs.jmartini.me/saude-mental-app.html">protótipo online</a>.
+This is the link to the <a href="http://uffs.jmartini.me/saude-mental-app.html">online prototype</a>.
 
 ## Pitch
 
-O projeto teve uma apresentação final de pitch criada pelos membros.
+The project had a final pitch presentation created by the members.
 
-O objetivo era apresentar e captar investimentos de empresas ou investidores.
+The objective was to present and attract investments from companies or investors.
 
-## Instalação
+## Installation
 
-Não é necessário fazer uma instalação para rodar o front-end do projeto.
+It is not necessary to do an installation to run the project's front-end.
 
-Para rodar o back-end, é necessário realizar uma configuração do firebase.
+To run the backend, you need to configure <a href="https://firebase.google.com/">firebase server</a>.
 
-## Licença
+## License
 
-Todos os direitos estão reservados aos desenvolvedores do aplicativo. 
+All rights are reserved to the developers of the application.
 
-O código fonte não deve ser copiado, compartilhado, remodelado ou usado em projetos públicos ou privados.
+The source code must not be copied, shared, remodeled or used in public or private projects.
