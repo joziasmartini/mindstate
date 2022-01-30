@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Timely" title="Timely" src="github/timely-logo.png" width="420px" />
+  <img alt="Timely" title="Timely" src="github/timely-logo.png" width="440px" />
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <br>
-<img alt="Timely Landing Page" title="Timely Landing Page" src="github/timely-landing-page.png" width="100%" align="center" />
+  <img alt="Timely Landing Page" title="Timely Landing Page" src="github/timely-landing-page.png" width="100%" align="center" />
 <br>
 
 ## Project
