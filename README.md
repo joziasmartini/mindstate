@@ -12,7 +12,11 @@
 
 ## Project
 
-This was a work done about the mental health in the pandemic for software engineering class in university.
+No one could imagine that a pandemic would arise, and as we were taken by surprise, we still haven't learned how to deal with it.
+
+Afraid, hopeless, our bodies didn't rest well, our biological cycles went out of whack and we are still paying the price.
+
+Reaching out to anyone in need, we've built the Lifecycle app, which helps you monitor and regulate your sleep and mood cycle.
 
 ## Prototype
 
