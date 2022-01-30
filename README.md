@@ -3,44 +3,16 @@
 </h1>
 
 <p align="center">
-  A web application that monitors your sleep cycle and mood.
+  An application that monitors your sleep and mood cycle.
 </p>
 
 <br>
 <img alt="Timely Landing Page" title="Timely Landing Page" src="github/timely-landing-page.png" width="100%" align="center" />
 <br>
 
-## About
+## Project
 
-This was a work done about the mental health in the pandemic for software engineering.
-
-The members of this project are Jozias Martini, Gustavo Bevilacqua, Bruno Bevilaqua and Mateus Arthur.
-
-Much of the project was built following the ideas of <a href="https://dschool.stanford.edu/resources/dschool-reading-list">design thinking by stanford</a>.
-
-## Research
-
-The project started with research to validate the pain of our personas.
-
-For that, we made the following <a href="https://forms.gle/LFZA6vXYwy3s8vCn7">research</a>.
-
-## Organization
-
-We decided as a group to use Trello to organize the application files and projects.
-
-The link to the trello board is <a href="https://trello.com/b/xfAJmNDm">this</a>.
-
-## Methodology
-
-We decided to use the <a href="https://www.desenvolvimentoagil.com.br/scrum/">agile scrum methodology</a> in the project.
-
-The sprints lasted fifteen days each.
-
-## Technologies
-
-We used the following technologies in the project:
-
-HTML, CSS, JavaScript and Firebase.
+This was a work done about the mental health in the pandemic for software engineering class in university.
 
 ## Prototype
 
@@ -48,20 +20,25 @@ We made a prototype of the main screens in HTML and CSS.
 
 This is the link to the <a href="http://uffs.jmartini.me/saude-mental-app.html">online prototype</a>.
 
-## Pitch
+## Methodology
+The project started with research to validate the pain of our personas.
 
-The project had a final pitch presentation created by the members.
+For that, we made the following <a href="https://forms.gle/LFZA6vXYwy3s8vCn7">research</a>.
 
-The objective was to present and attract investments from companies or investors.
+We decided to use the <a href="https://www.desenvolvimentoagil.com.br/scrum/">agile scrum methodology</a>.
 
-## Installation
+In this project, the sprints lasted fifteen days each.
 
-It is not necessary to do an installation to run the project's front-end.
+Much of the project was built following the ideas of <a href="https://dschool.stanford.edu/resources/dschool-reading-list">design thinking by stanford</a>.
 
-To run the backend, you need to configure <a href="https://firebase.google.com/">firebase server</a>.
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+- Node
+- React
+- Firebase
 
 ## License
-
-All rights are reserved to the developers of the application.
-
-The source code must not be copied, shared, remodeled or used in public or private projects.
+This project is under a private license, that is, its code cannot be distributed, modified or used by third parties.
