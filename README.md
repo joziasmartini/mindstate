@@ -6,15 +6,11 @@
   An application that monitors your sleep and mood cycle.
 </p>
 
-<br>
-  <img alt="Timely Landing Page" title="Timely Landing Page" src=".github/timely-landing-page.png" width="100%" align="center" />
-<br>
-
 ## Project
 
 No one could imagine that a pandemic would arise, and as we were taken by surprise, we still haven't learned how to deal with it.
 
-Afraid, hopeless, our bodies didn't rest well, our biological cycles went out of whack and we are still paying the price.
+Afraid, hopeless, our body hasn't rested well, our biological cycles have deregulated and we still can't fully recover.
 
 Reaching out to anyone in need, we've built the Lifecycle app, which helps you monitor and regulate your sleep and mood cycle.
 
