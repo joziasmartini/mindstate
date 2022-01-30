@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center">
   <img alt="Timely" title="Timely" src=".github/timely-logo.png" width="440px" />
-</h1>
+</p>
 
 <p align="center">
   An application that monitors your sleep and mood cycle.
@@ -33,12 +33,13 @@ Much of the project was built following the ideas of <a href="https://dschool.st
 
 ## Technologies
 
-- HTML
-- CSS
-- JavaScript
-- Node
-- React
-- Firebase
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [NodeJS](https://nodejs.org/)
+- [ReactJS](https://reactjs.org/)
+- [Firebase](https://firebase.google.com/)
+- [Cordova](https://cordova.apache.org/)
 
 ## License
 This project is under a private license, that is, its code cannot be distributed, modified or used by third parties.
