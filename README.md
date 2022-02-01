@@ -1,24 +1,22 @@
-<p align="center">
-  <img alt="Timely" title="Timely" src=".github/timely-logo.png" width="440px" />
-</p>
+<h1 align="center">Mindstate</h1>
 
 <p align="center">
-  An application that monitors your sleep and mood cycle.
+  An application that monitors your body and mind.
 </p>
 
 ## Project
 
 No one could imagine that a pandemic would arise, and as we were taken by surprise, we still haven't learned how to deal with it.
 
-Afraid, hopeless, our body hasn't rested well, our biological cycles have deregulated and we still can't fully recover.
+Afraid, hopeless, our body and mind hasn't rested well, our cycles have deregulated and we still can't fully recover.
 
-Reaching out to anyone in need, we've built the Lifecycle app, which helps you monitor and regulate your sleep and mood cycle.
+Reaching out to anyone in need, we've built the Mindstate app, which helps you monitor and regulate your body and mind.
 
 ## Prototype
 
-We made a prototype of the main screens in HTML and CSS.
-
-This is the link to the <a href="http://uffs.jmartini.me/saude-mental-app.html">online prototype</a>.
+<p align="center">
+  <img src=".github/prototype.png" />
+</p>
 
 ## Methodology
 The project started with research to validate the pain of our personas.
