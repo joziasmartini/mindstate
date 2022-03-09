@@ -1,4 +1,6 @@
-<h1 align="center">Mindstate</h1>
+<div align="center">
+  <img src="doc/mindstate-logo.png" width="500"></image>
+</div>
 
 <p align="center">
   An application that monitors your body and mind.
