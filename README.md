@@ -1,5 +1,7 @@
+<br/>
+
 <div align="center">
-  <img src="doc/mindstate-logo.png" width="500"></image>
+  <img src="doc/mindstate-logo.png" width="580"></image>
 </div>
 
 <p align="center">
