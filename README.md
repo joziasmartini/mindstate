@@ -4,13 +4,13 @@
   An application that monitors your body and mind.
 </p>
 
-## Project
+## Introduction
 
-No one could imagine that a pandemic would arise, and as we were taken by surprise, we still haven't learned how to deal with it.
+We all have problems and suffering, even so, no one could have imagined that a pandemic would arise, and as we were taken by surprise, we still haven't learned how to deal with it.
 
-Afraid, hopeless, our body and mind hasn't rested well, our cycles have deregulated and we still can't fully recover.
+With fear, without hope, our body and mind did not rest well, our cycles became deregulated and we still cannot fully recover from what has been happening in the world.
 
-Reaching out to anyone in need, we've built the Mindstate app, which helps you monitor and regulate your body and mind.
+Seeking to help people in need, we created the Mindstate app, which helps you monitor and regulate your body and mind for a more regulated and healthy life.
 
 ## Prototype
 
